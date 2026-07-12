@@ -14,3 +14,9 @@ __pycache__/
 # OS Files
 .DS_Store
 Thumbs.db
+
+data/outputs/*
+!data/outputs/.gitkeep
+
+data/test_images/*
+!data/test_images/.gitkeep
