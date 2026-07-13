@@ -20,3 +20,7 @@ data/outputs/*
 
 data/test_images/*
 !data/test_images/.gitkeep
+
+# Test Audio
+data/test_audio/*
+!data/test_audio/.gitkeep
