@@ -24,3 +24,11 @@ data/test_images/*
 # Test Audio
 data/test_audio/*
 !data/test_audio/.gitkeep
+
+# Uploaded files
+data/uploads/*
+!data/uploads/.gitkeep
+
+# Reports
+data/reports/*
+!data/reports/.gitkeep

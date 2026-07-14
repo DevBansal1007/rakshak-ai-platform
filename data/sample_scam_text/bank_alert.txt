@@ -1,0 +1,7 @@
+Dear Customer,
+
+Rs.5000 has been debited from your account.
+
+If this transaction was not made by you, contact customer care.
+
+Do not share your OTP with anyone.
